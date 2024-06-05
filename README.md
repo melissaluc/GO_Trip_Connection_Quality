@@ -1,4 +1,6 @@
 **Regional Transit MSP Trip Connection Quality**
+
+
 The project revolves around an existing Python codebase hosted on Bitbucket, utilizing Azure Functions infrastructure to streamline trip connection analysis. The primary objective is to assess the quality of regional transit trip connections, particularly focusing on transferable municipal public transit routes (MSP). This involves fixing existing analysis inaccuracies, enhancing functionalities, and introducing a new feature to evaluate trip connection quality based on departure and arrival times.
 
 Key Components:
